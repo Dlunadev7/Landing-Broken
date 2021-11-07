@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.512d3b0f.chunk.css",
+    "main.js": "./static/js/main.e1128a1c.chunk.js",
+    "main.js.map": "./static/js/main.e1128a1c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5dadaca3.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5dadaca3.js.map",
+    "static/js/2.0da2d188.chunk.js": "./static/js/2.0da2d188.chunk.js",
+    "static/js/2.0da2d188.chunk.js.map": "./static/js/2.0da2d188.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.512d3b0f.chunk.css.map": "./static/css/main.512d3b0f.chunk.css.map",
+    "static/js/2.0da2d188.chunk.js.LICENSE.txt": "./static/js/2.0da2d188.chunk.js.LICENSE.txt",
+    "static/media/1280px-Al-Sultan_Abdullah_signature.dc497f48.svg": "./static/media/1280px-Al-Sultan_Abdullah_signature.dc497f48.svg",
+    "static/media/Component-53–2.16166f36.svg": "./static/media/Component-53–2.16166f36.svg",
+    "static/media/Component-55–1.8a2e4625.svg": "./static/media/Component-55–1.8a2e4625.svg",
+    "static/media/style.css": "./static/media/icomoon.d68b396f.eot",
+    "static/media/MaskGroup2.9e7c355d.jpg": "./static/media/MaskGroup2.9e7c355d.jpg",
+    "static/media/businessman.08cf1c8e.png": "./static/media/businessman.08cf1c8e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dadaca3.js",
+    "static/js/2.0da2d188.chunk.js",
+    "static/css/main.512d3b0f.chunk.css",
+    "static/js/main.e1128a1c.chunk.js"
+  ]
+}

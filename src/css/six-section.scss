@@ -1,0 +1,46 @@
+.main__six__section {
+	height: 100%;
+	background-color: #1E1E1E;
+}
+.card-blog {
+	width: 100%;
+	max-width: 454px;
+	height: 100%;
+}
+.card-blog-image {
+	height: 250px;
+}
+.btn-blog {
+	background-color: #00000000 !important;
+	height: 32px !important;
+	border: 1px solid #EF730D !important;
+}
+.btn {
+	&:focus {
+		border: unset;
+		box-shadow: unset;
+	}
+	&:hover {
+		color: #b95a0c !important;
+	}
+}
+.cta-blog {
+	width: 312px !important;
+	height: 52px !important;
+}
+.main__six__arrow__image {
+	display: none;
+}
+@media screen and (min-width: 720px) {
+
+	.main__six__section__title {
+		font-size: 55px !important;
+	}
+
+	.card-description {
+		flex-direction: row !important;
+		span {
+			margin-top: 0px !important;
+		}
+	}
+}

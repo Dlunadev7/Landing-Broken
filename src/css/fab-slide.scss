@@ -1,0 +1,27 @@
+.slide__fab {
+	width: 84px;
+	height: 84px;
+	background-color: #ffffff21;
+	border-radius: 50%;
+	position: absolute;
+	bottom: 42px;
+	left: 50%;
+	right: 50%;
+	transform: translate(-50%, -50%);
+	border: 1px solid #FFFFFF;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	transition: all .3s;
+	text-decoration: none;
+	&:hover {
+		background-color: #EF730D;
+		color: #fff;
+		transition: all .3s;
+	}
+}
+.icon-arrow-thin-down {
+	color: #ddd;
+	font-size: 32px;
+	font-weight: 100;
+}

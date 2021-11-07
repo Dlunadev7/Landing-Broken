@@ -1,0 +1,45 @@
+.main__section__two__title {
+	position: relative;
+	transform: translateX(-25%);
+	opacity: 0;
+	transition: all .3s;
+	&::after {
+		content: "";
+		width: 25%;
+		height: 4px;
+		bottom: -45px;
+		left: 0;
+		background-color: #EF730D;
+		position: absolute;
+	}
+}
+.main__section__two__text__description {
+	transform: translateY(30%);
+	opacity: 0;
+	transition: all .3s;
+}
+.main__section__two__title--active {
+	transform: translateX(0%);
+	transition: all .9s;
+	opacity: 1;
+}
+.main__section__two__text__description--active {
+	transform: translateY(0%);
+	transition: all .9s;
+	opacity: 1;
+}
+.main__business__image {
+	width: 100%;
+	height: 1015px;
+	max-width: 901px;
+	filter: drop-shadow(#ddd -25px -50px 42px);
+}
+@media screen and (max-width: 1140px) {
+	.main__container__image {
+		display: none;
+	}
+	.main__container__component-2 {
+		display: none;
+	}
+
+}
